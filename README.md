@@ -2,6 +2,9 @@ Synopsis
 
 This is the 4th version of our AirBnB clone project. We will be using python3, RESTful API, MySQL, Flask, and jQuery AJAX
 
+![image](https://user-images.githubusercontent.com/110912707/218313967-a1f7f845-e231-4317-ab69-143c82febc7f.png)
+
+
 step2
 Table of Contents
 
